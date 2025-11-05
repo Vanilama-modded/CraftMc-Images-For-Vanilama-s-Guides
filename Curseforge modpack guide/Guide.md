@@ -30,7 +30,7 @@ after that you can close the mod list by clicking on the X in the top right of t
 
 <!--Step 4 7-->
 
-## Step 6. Have Fun
+## Step 5. Have Fun
 
 Now just click play and Have Fun
 
